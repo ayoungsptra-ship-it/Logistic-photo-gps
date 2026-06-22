@@ -1,1 +1,10 @@
-# Logistic-photo-gps3998ffd8323fbb4d52ac76e0f385dde580c62df9
+# Logistic Monitoring App
+
+Aplikasi Monitoring Access & Productivity untuk operasional logistik.
+
+## Fitur
+- Login
+- Dashboard
+- Absensi
+- Produktivitas
+- Profil
